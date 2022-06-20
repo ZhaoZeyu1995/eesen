@@ -27,3 +27,6 @@ project.xcworkspace
 
 # swp files
 *.swp
+
+#Added by Zeyu Zhao
+data
